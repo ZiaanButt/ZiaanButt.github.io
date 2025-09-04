@@ -52,3 +52,14 @@ h1 {
 .purple{
     color: purple;
 }
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+    margin: 100px;
+}
